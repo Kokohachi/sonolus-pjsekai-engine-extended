@@ -1,4 +1,4 @@
-# Sonolus PJSekai Engine Extended
+# Sonolus PJSekai Engine Extended (SPEE) Fukinoto
 
 Fork of [Sonolus PJSekai Engine](https://github.com/NonSpicyBurrito/sonolus-pjsekai-engine) with additional features.
 
