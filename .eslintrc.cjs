@@ -13,7 +13,12 @@ module.exports = {
         'prettier',
     ],
     rules: {
-        'prettier/prettier': 'error',
+        'prettier/prettier': [
+            "error",
+            {
+                "endOfLine": "auto"
+            }
+            ],
         '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
         // False positive: Function type
         'no-unused-vars': 'off',
