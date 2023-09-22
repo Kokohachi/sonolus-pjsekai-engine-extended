@@ -1,13 +1,13 @@
 .vscode
 node_modules
 
-play/src/level/bgm.mp3
+shared/src/level/bgm.mp3
 
 .dev
 dist
-src/level/data/*.sus
-src/level/data/*.mmws
-src/level/data/*.chs
-src/level/data/*.json
+shared/src/level/data/*.sus
+shared/src/level/data/*.mmws
+shared/src/level/data/*.chs
+shared/src/level/data/*.json
 !src/level/data/expert.json
 
